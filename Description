@@ -1,0 +1,4 @@
+Working under prof Dipankar Das(CSE) to perform the following tasks
+Dataset preparation by webscrapping with Beautifulsoup(python) from website https://counselchat.com/
+Experimenting with various algorithms to make an effective question answering system
+Tools Used:Lstm,Bert,T5Libraries used:Nltk,Tensorflow,Lstm,Bert
